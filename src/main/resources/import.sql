@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Amy Lee', '28577650022',482284.00,'1981-12-13', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Simone Simons', '69630064073',2131254.00,'1985-01-17', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Dorothy Martin', '95548111019',2872412.00,'1986-04-11', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Chester Bennington', '30088876004',825754.00,'1976-03-20', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Christian Lorenz', '10074606018',9544543.00,'1966-11-16', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Till Lindemann', '67886546032',782745224.00,'1963-01-04', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Richard Kruspe', '39497082002',48564654.00,'1967-06-24', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Paul Landers', '41903577071',7852428.00,'1964-12-09', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Oliver Riedel', '27080586062',48545213.00,'1971-04-11', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Christoph Schneider', '89170157006',46846564.00,'1966-05-11', 1);
